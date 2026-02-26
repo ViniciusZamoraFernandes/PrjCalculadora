@@ -1,3 +1,3 @@
 # PrjCalculadora
 Projeto Calculadora Quack
-Protótipo(Quack.pdf)
+Protótipo (Prototipo1.png) (Prototipo2.png)
